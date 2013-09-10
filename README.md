@@ -10,3 +10,8 @@ It provides a full root http shell for troubleshooting if the telnet daemon is b
 * `autorun.sh` Starts the telnet server and links the http shell in webservers root. 
 Place this in the root of the SD card. (Thanks for trancent for this hacker-friendly backdoor)
 
+Screenshot
+----------
+
+![HTTP Shell](/screenshot-httpshell.png "HTTP Shell")
+
